@@ -16,6 +16,8 @@ A big list of community based programs and tools to improve the coronavirus pand
 
 ### Qualitative testing
 
+https://github.com/emcee5601/fit-testing-resources/wiki
+
 ### Open source respirators
 
 ### Respirator sourcing
